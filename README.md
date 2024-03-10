@@ -2,7 +2,7 @@
 <h2>👨‍💻 GIS Data Analysis and Coding Projects:</h2>
 
 - <b>Data Refactoring Project</b>
-  - [Praciting DS & Algos in Python](https://)
+  - [Praciting DS & Algos in Python](https://https://github.com/Boyd-N-Barrett/DataRefactoringLab/tree/main)
 
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://)
