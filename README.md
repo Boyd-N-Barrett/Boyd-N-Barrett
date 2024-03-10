@@ -10,7 +10,7 @@
 <h2>👨‍💻 Certifications:</h2>
 
 - <b>Cybersecurity</b>
-  - [GIAC Foundational Cybersecurity Technologies (GFACT)](https://https://www.credly.com/badges/474bfc8c-0641-43ec-9080-3ff8f8c9a1f3/linked_in_profile)
+  - [GIAC Foundational Cybersecurity Technologies (GFACT)](https://https://https://www.credly.com/badges/474bfc8c-0641-43ec-9080-3ff8f8c9a1f3/linked_in_profile)
 
 <h2>📺 Popular YouTube Videos</h2>
 
