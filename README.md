@@ -2,7 +2,7 @@
 <h2>👨‍💻 GIS Data Analysis and Coding Projects:</h2>
 
 - <b>Data Refactoring Project</b>
-  - [Praciting DS & Algos in Python](https://github.com/Boyd-N-Barrett/DataRefactoringLab/tree/main)
+  - [Developing a Python code to create an attribute table for a shape in ArcGIS Pro](https://github.com/Boyd-N-Barrett/DataRefactoringLab/tree/main)
 
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://)
