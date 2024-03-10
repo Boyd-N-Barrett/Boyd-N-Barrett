@@ -23,7 +23,7 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [youtube]: https://www.youtube.com/@boydbarrett5819
-[linkedin]: https://https://www.credly.com/badges/4a27992b-6134-461d-be38-4ae54627928b
+[linkedin]: https://https://www.linkedin.com/in/boyd-barrett
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
