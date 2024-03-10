@@ -1,7 +1,31 @@
-### Hi there 👋
+<h1>Hi, I'm Boyd! <br/><a href="https://github.com/joshmadakor1">GIS Analyst</a>
+<h2>👨‍💻 GIS Data Analysis and Coding Projects:</h2>
+
+- <b>Data Refactoring Project</b>
+  - [Praciting DS & Algos in Python](https://)
+
+- <b>Python</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://)
+
+<h2>👨‍💻 Certifications:</h2>
+
+- <b>Cybersecurity</b>
+  - [Praciting DS & Algos in Python](https://)
+
+<h2>📺 Popular YouTube Videos</h2>
+
+- [How to Create a KeyLogger (C#)](https://)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[youtube]: https://www.youtube.com/@boydbarrett5819
+[linkedin]: https://www.linkedin.com/in/boyd-barrett
 
 <!--
-**Boyd-N-Barrett/Boyd-N-Barrett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
