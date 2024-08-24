@@ -1,4 +1,4 @@
-<h1>Hi, I'm Boyd! <br/><a href="https://www.linkedin.com/in/boyd-barrett">GIS Analyst</a>
+<h1>Hi, I'm Boyd! <br/><a href="https://www.linkedin.com/in/boyd-barrett">Geospatial Data Analyst</a>
 <h2>👨‍💻 GIS and Coding Projects:</h2>
 
 - <b>Data Refactoring Project</b>
