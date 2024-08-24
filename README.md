@@ -1,7 +1,7 @@
 <h1>Hi, I'm Boyd! <br/><a href="https://www.linkedin.com/in/boyd-barrett">Geospatial Data Analyst</a>
 <h2>👨‍💻 GIS and Coding Projects:</h2>
 
-- <b>Data Refactoring Project</b>
+- <b>Data Pipeline</b>
   - [Developing a Python code to create an attribute table for a shape in ArcGIS Pro](https://github.com/Boyd-N-Barrett/DataRefactoringLab/tree/main)
 
 - <b>Python</b>
