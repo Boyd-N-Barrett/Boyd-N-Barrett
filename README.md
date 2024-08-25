@@ -5,7 +5,7 @@
   - [Developing a Python code to create an attribute table for a shape in ArcGIS Pro](https://github.com/Boyd-N-Barrett/DataRefactoringLab/tree/main)
 
 - <b>ArcGIS Pro - Spatial Data Analysis</b>
-  - [ArcGIS Pro Training Module - Crime Analysis Solution: Tactical and Strategic Analysis)](https://)
+  - [ArcGIS Pro Training Module - Crime Analysis Solution: Tactical and Strategic Analysis)](https://github.com/Boyd-N-Barrett/CrimeAnalysis_ArcPro)
 
 <h2>👨‍💻 Certifications:</h2>
 
