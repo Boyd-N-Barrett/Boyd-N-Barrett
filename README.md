@@ -2,7 +2,7 @@
 <h2>👨‍💻 GIS and Coding Projects:</h2>
 
 - <b>Python - Data Pipeline</b>
-  - [Developing a Python code to create an attribute table for a shape in ArcGIS Pro](https://github.com/Boyd-N-Barrett/DataRefactoringLab/tree/main)
+  - [Develop a data pipeline for a hydro project](https://github.com/Boyd-N-Barrett/DataRefactoringLab/tree/main)
 
 - <b>ArcGIS Pro - Spatial Data Analysis</b>
   - [ArcGIS Pro Training Module - Crime Analysis Solution: Tactical and Strategic Analysis)](https://github.com/Boyd-N-Barrett/CrimeAnalysis_ArcPro)
