@@ -1,7 +1,7 @@
 <h1>Hi, I'm Boyd! <br/><a href="https://www.linkedin.com/in/boyd-barrett">Geospatial Data Analyst and Project Coordinator</a>
 <h2>👨‍💻 GIS and Coding Projects:</h2>
 
-- <b>Python - Data Pipeline</b>
+- <b>Python</b>
   - [Develop a data pipeline for a hydro project](https://github.com/Boyd-N-Barrett/DataRefactoringLab/tree/main)
 
 - <b>ArcGIS Pro - Spatial Data Analysis</b>
