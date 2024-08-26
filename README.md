@@ -3,7 +3,7 @@
 
 - <b>Python</b>
   - [Develop a data pipeline for a hydro project](https://github.com/Boyd-N-Barrett/DataRefactoringLab/tree/main)
-  - [Extract data from semi-structured PDF and save to spreadsheet](https://github.com/Boyd-N-Barrett/DataRefactoringLab/tree/main)
+  - [Extract data from semi-structured PDF and save to spreadsheet](https://github.com/Boyd-N-Barrett/Extract-Data-from-PDF/tree/main)
 
 - <b>ArcGIS Pro - Spatial Data Analysis</b>
   - [ArcGIS Pro Training Module - Crime Analysis Solution: Tactical and Strategic Analysis)](https://github.com/Boyd-N-Barrett/CrimeAnalysis_ArcPro)
