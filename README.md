@@ -6,7 +6,7 @@
   - [Extract data from semi-structured PDF and save to spreadsheet](https://github.com/Boyd-N-Barrett/Extract-Data-from-PDF/tree/main)
 
 - <b>ArcGIS Pro - Spatial Data Analysis</b>
-  - [ArcGIS Pro Training Module - Crime Analysis Solution: Tactical and Strategic Analysis)](https://github.com/Boyd-N-Barrett/CrimeAnalysis_ArcPro)
+  - [ArcGIS Pro Training Module - Crime Analysis Solution: Tactical and Strategic Analysis](https://github.com/Boyd-N-Barrett/CrimeAnalysis_ArcPro)
 
 <h2>👨‍💻 Certifications:</h2>
 
